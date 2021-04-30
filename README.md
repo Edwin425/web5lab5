@@ -10,7 +10,7 @@ Ini Adalah perintah untuk membuat validasi sederhana html
 dan dibawah ini adalah hasil output dari perintah validasi sederhana tersebut.
 
 ### Validasi login mahasiswa
-# Menjawan tugas pratikum 5 
+# Menjawab tugas pratikum 5 
  Ini adalah contoh validasi sederhananya
 # ![baby](https://user-images.githubusercontent.com/77254428/116673637-d9a82f80-a9cd-11eb-99a0-e25de3bd72c9.png)
 
